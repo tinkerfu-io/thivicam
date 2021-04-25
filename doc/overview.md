@@ -5,17 +5,23 @@ If you intend to monitor any situation such as the behavior of a device, what is
 
 Todo: Project logo !!!
 
+</br>
+
 ## Boundary Conditions
 
 * The thivicam should be realized as a construction manual, so that someone who is a somewhat technically interested can rebuild it
 * The thivicam should use generally available hardware that everyone can by
 * The sofware must be opensource so that everyone can adapt it to their own needs
-* The thivicam should be a kind of a very basic solution that can be extended by everyone with new features according theire needs (like smoke detection and so forth)
+* The thivicam should be a kind of basic solution, which can be extended by everyone with new functions according to his needs (e.g. smoke detection etc.)
 * The thivicam must be usable as a IP Cam via Wifi or Lan, if possible with PoE
 * The video feed must be ebeddable in any possible software conforming a standard (Todo: needs some clarification)
 
+</br>
+
+## Solution Sketch
 
 
-## 
+![](images/solutionsketch.svg)
+
 
 
