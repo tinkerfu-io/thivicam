@@ -5,6 +5,11 @@ In many cases where network cameras are used, the possibility to adjust the came
 ToDo: Simple UI Mock 
 </br>
 </br>
+
+![](images/architecture.svg)
+
+</br>
+
 ## User Stories:
 
 |ID|Story Title|Description|
