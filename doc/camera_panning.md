@@ -2,11 +2,12 @@
 
 In many cases where network cameras are used, the possibility to adjust the camera orientation via remote access is indispensable. In other applications it is desired that the camera monitors a larger area greater the field of view, or follows objects / people in motion to have them continuously in the picture.
 </br>
-ToDo: Simple UI Mock 
-</br>
+![](images/architecture.svg)
+
+## Test
 </br>
 
-![](images/architecture.svg)
+![](images/PaningMock.svg)
 
 </br>
 
